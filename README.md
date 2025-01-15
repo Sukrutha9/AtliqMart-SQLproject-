@@ -4,8 +4,8 @@
 -[Company Background](#company-background)               
 -[Project Objective](#project-objective)           
 -[Data Model](data-model)                
--[Tools used & Methodologies implemented](#tools-used)                 
--[Business & Ad-hoc Requests](business-&-ad-Hoc-requests)         
+-[Tools used & Methodologies implemented](#tools-used)              
+-[Business and Ad-hoc Requests](#business-and-ad-hoc-requests)         
 -[Insights Deep Dive](#insights-deep-dive)               
  -[Key Product Performance](#key-product-performance)               
  -[Top Performing Cities](#top-performing-cities)           
@@ -41,7 +41,7 @@
 
 ------
 
-## Business & Ad-hoc Requests:
+## Business and Ad-hoc Requests:
 
 -[Business and Ad-hoc requests pdf](https://github.com/Sukrutha9/AtliqMart-SQLproject-/blob/main/Business%20and%20Ad-hoc%20requests/BUSINESS%20REQUESTS.docx)             
 -[SQL queries pdf](https://github.com/Sukrutha9/AtliqMart-SQLproject-/blob/main/SQL%20queries%20and%20Results/SQL%20queries.sql)             
